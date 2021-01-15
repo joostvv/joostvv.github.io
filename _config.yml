@@ -8,7 +8,7 @@ show_excerpts: true
 
 minima:
   date_format: "%b %-d, %Y"
-
+  skin: dark    
   # generate social links in footer
   social_links:
     github:  joostvv
